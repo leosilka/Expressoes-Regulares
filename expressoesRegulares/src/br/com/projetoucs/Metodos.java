@@ -24,7 +24,6 @@ public class Metodos {
             System.out.println("Endereço de e-mail digitado é válido, obrigado por participar!");
         } else {
             System.out.println("Endereço de e-mail digitado é inválido, refaça seu cadastro!");
-            //throw new IllegalArgumentException("Endereço de e-mail inválido");
         }
     }
 
